@@ -1,0 +1,18 @@
+OUTPUT:number
+INPUT:number
+
+Welcome the user
+
+Request for the first input
+
+capture the number
+
+Request for the operator and capture it
+
+Request for the second number and capture it
+
+Using recaptured operator to determine what kind of operation the user wants
+
+Perform the computation 
+
+Display the result.
